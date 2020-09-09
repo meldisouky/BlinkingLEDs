@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1599636584 source:e:\projects\blinking_led\fuse.c
+	<avr/io.h>
+
+1599637899 source:e:\projects\blinking_led\gpio.c
+	<avr/io.h>
+	"gpio.h"
+
+1599630483 e:\projects\blinking_led\gpio.h
+
+1599637803 source:e:\projects\blinking_led\led.c
+	<avr/io.h>
+	<avr/delay.h>
+	"led.h"
+	"gpio.h"
+
+1599635194 e:\projects\blinking_led\led.h
+
+1599637440 source:e:\projects\blinking_led\main.c
+	<avr/io.h>
+	"led.h"
+
+1599636584 source:e:\projects\avr\blinking_led\fuse.c
+	<avr/io.h>
+
+1599637899 source:e:\projects\avr\blinking_led\gpio.c
+	<avr/io.h>
+	"gpio.h"
+
+1599630483 e:\projects\avr\blinking_led\gpio.h
+
+1599637440 source:e:\projects\avr\blinking_led\main.c
+	<avr/io.h>
+	"led.h"
+
+1599635194 e:\projects\avr\blinking_led\led.h
+
